@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"Timber wolf","category":"Red"},
+{"id":2,"name":"Gecko, barking","category":"Orange"},
+{"id":3,"name":"White-tailed deer","category":"Khaki"},
+{"id":4,"name":"Gecko (unidentified)","category":"Goldenrod"},
+{"id":5,"name":"Greater sage grouse","category":"Mauv"},
+{"id":6,"name":"Lizard, collared","category":"Maroon"},
+{"id":7,"name":"Roller, lilac-breasted","category":"Blue"},
+{"id":8,"name":"Robin, white-throated","category":"Purple"},
+{"id":9,"name":"Jackrabbit, white-tailed","category":"Purple"},
+{"id":10,"name":"Macaw, green-winged","category":"Orange"},
+{"id":11,"name":"Crab-eating raccoon","category":"Pink"},
+{"id":12,"name":"Turaco, violet-crested","category":"Goldenrod"},
+{"id":13,"name":"Red lava crab","category":"Pink"},
+{"id":14,"name":"Cormorant, king","category":"Violet"},
+{"id":15,"name":"Sloth, two-toed tree","category":"Mauv"},
+{"id":16,"name":"Bohor reedbuck","category":"Purple"},
+{"id":17,"name":"Brush-tailed bettong","category":"Pink"},
+{"id":18,"name":"Hartebeest, coke's","category":"Blue"},
+{"id":19,"name":"Radiated tortoise","category":"Blue"},
+{"id":20,"name":"Madagascar hawk owl","category":"Mauv"}
+]
+}
